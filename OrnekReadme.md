@@ -5,5 +5,6 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 ![Proje Resmi](ProjeResim.png)
 
 ## Installation
-
+```
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+```
