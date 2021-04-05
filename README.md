@@ -21,7 +21,7 @@
 
 Detaylı bakmak için [Örnek Readme Dosyası](https://github.com/ErenYilmaz97/kodluyoruzilkrepo/blob/main/OrnekReadme.md)nı inceleyebilirsiniz.
 
-* Markdown dosyanızın içine projemizin bir resmini koyun.
+* Markdown dosyanızın içine projemizin bir **resmini** koyun.
 * Repomuzun içine bir adet **index.html** dosyası oluşturun.
 * En sonunda yaptığınız değişiklikleri ekleyin, commitleyin ve gönderin. Bunları yapmayı bilmiyorsanız sizler için oluşturduğumuz için GIT eğitimimizi takip edebilirsiniz.
 
