@@ -6,7 +6,7 @@
 * Reponuzu **public** olarak oluşturun ki biz de daha sonradan görebilelim.
 * Description kısmına **"Kodluyoruz Eğitimi kapsamında açtığım ilk repo"** yazın.
 * **"Add a README file"** seçeneğini seçin.
-* "Choose a license" seçeneğini seçip **"MIT License"** seçeneğini seçin. Lisanslar ile alakalı detaylı bilgi için Choose a License sitesini ziyaret edebilirsiniz.
+* "Choose a license" seçeneğini seçip **"MIT License"** seçeneğini seçin. Lisanslar ile alakalı detaylı bilgi için [Choose a License](https://choosealicense.com) sitesini ziyaret edebilirsiniz.
 
 ![Proje Resmi](ProjeResim.png)
 
