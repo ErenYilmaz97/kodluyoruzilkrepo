@@ -1,0 +1,55 @@
+/* class */
+.center 
+{
+    text-align: center;
+}
+
+/* Id */
+#title 
+{
+    color:#DC143C;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+}
+
+
+.menu-element 
+{
+    font-family: 'Noto Serif', serif;
+    font-size: 15px;
+}
+
+.content
+{
+    margin-top: 30px;
+}
+
+.content-title
+{
+    color:#FF1493;
+    font-family: 'Noto Serif', serif;
+    
+}
+
+
+.list-title
+{
+    color:#DAA520;
+    font-family: 'RocknRoll One', sans-serif;
+    margin-top: 50px;
+}
+
+
+.description
+{
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+
+.product-list
+{
+    list-style-position: inside;
+    margin-right: 60px;
+}
+
+

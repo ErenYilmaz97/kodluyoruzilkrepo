@@ -1,0 +1,30 @@
+.center 
+{
+    text-align: center;
+}
+
+.title
+{
+    text-align: center;
+    color: #98FB98;
+    margin-top: 50px;
+}
+
+.menu-element 
+{
+    font-family: 'Noto Serif', serif;
+    font-size: 15px;
+}
+
+
+#title 
+{
+    color:#DC143C;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+}
+
+.description
+{
+    font-family: 'Lobster Two', cursive;
+}
